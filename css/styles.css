@@ -1,0 +1,19 @@
+h1 {
+font-style: italic;
+  color: #66BFBF
+}
+h3 {
+  color: #66BFBF
+}
+h2 {
+  color: #66BFBF
+}
+body {
+  background-color: #d9eeec;
+}
+hr {
+  border-color: grey;
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 5%;
+}
